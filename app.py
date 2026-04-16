@@ -29,7 +29,7 @@ st.markdown("""
     .main { background-color: #f0f4f8; }
     .stButton>button {
         background-color: #2563eb;
-        color: blue;
+        color: white;
         border-radius: 8px;
         border: none;
         padding: 0.5rem 1.2rem;
@@ -37,7 +37,7 @@ st.markdown("""
     }
     .stButton>button:hover { background-color: #1d4ed8; }
     .metric-card {
-        background: white;
+        background: blue;
         border-radius: 12px;
         padding: 1.2rem;
         box-shadow: 0 2px 8px rgba(0,0,0,0.08);
