@@ -37,7 +37,7 @@ st.markdown("""
     }
     .stButton>button:hover { background-color: #1d4ed8; }
     .metric-card {
-        background: blue;
+        background: yellow;
         border-radius: 12px;
         padding: 1.2rem;
         box-shadow: 0 2px 8px rgba(0,0,0,0.08);
